@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/larigens">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Larissa+Guilherme;Full+Stack+%7C+GA+Tech+ Student+%7C+Aspiring+Software+Engineer+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=80&multiline=true&width=500&height=80&lines=Larissa+Guilherme;Full+Stack+%7C+GA+Tech+ Student+%7C+Aspiring+Software+Engineer+" alt="Typing SVG" />
 </a>
 <br/>
 
