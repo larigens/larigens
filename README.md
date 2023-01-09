@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/larigens">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=80&multiline=true&width=500&height=80&lines=Larissa+Guilherme;Full+Stack+%7C+GA+Tech+ Student+%7C+Aspiring+Software+Engineer+" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=80&color=F069C2&width=435&lines=Larissa+Guilherme;Software+Engineer;Student+at+Georgia+Tech)](https://git.io/typing-svg)
 </a>
 <br/>
 
