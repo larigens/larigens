@@ -1,7 +1,6 @@
 <p align="center">
-<a href="https://github.com/larigens">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=80&color=F069C2&width=435&lines=Larissa+Guilherme;Software+Engineer;Student+at+Georgia+Tech)](https://git.io/typing-svg)
-</a>
+</p>
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=larigens&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)
