@@ -28,6 +28,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=90&lines=Software+Engineer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
 </div>
 
+<div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
 <a href="https://github.com/larigens/readme-lab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=readme-lab" />
@@ -35,15 +36,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 ---
                                                                                       
 ### About Me
 
-- :telescope: Pursuing Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology
+- :telescope: Pursuing Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
 
 - :seedling: Open to work and collaboration on projects.
 
-- :zap: In my free time, I workout and play videogames.
+- :zap: In my free time, I like to play video games and workout to de-stress after hours of de-bugging hah.
 
 ---
   
