@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center" >
     <a href="https://larigens.github.io/lari-gui/" target="_blank">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
     </a>  
     <a href="https://https://linkedin.com/in/lari-gui/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin" />
@@ -13,19 +13,15 @@
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
     </a>  
     <a href="https://scholar.google.com/citations?hl=en&user=lje994IAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Scholar-100000?&logo=GoogleScholar&logoColor=white" alt="Google Scholar" />
+        <img src="https://img.shields.io/badge/Scholar-100000?logo=GoogleScholar&logoColor=white" alt="Google Scholar" />
     </a>
     <a href="mailto:larigens@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="email" />
+        <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" />
     </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Larissa+Guilherme;Software+Engineer+%7C%7C+Full+Stack+Web+Dev;Student+at+Georgia+Institute+of+Technology" alt="Typing SVG" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=larigens&style=flat-square&color=F069C2" alt=""/>
-
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Larissa+Guilherme;Software+Engineer+%7C%7C+Full+Stack+Web+Dev;Student+at+Georgia+Institute+of+Technology" alt="Typing SVG" />
-</p>
-
+<img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 <br>
   
 <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
