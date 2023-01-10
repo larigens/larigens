@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="130px" height="130px" alt="cube-gif" />
+    <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100px" height="100px" alt="gif" />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Larissa+Guilherme;Software+Engineer+%7C%7C+Full+Stack+Web+Dev;Student+at+Georgia+Institute+of+Technology" alt="Typing SVG" /></a>
 </p>
 
@@ -39,8 +39,6 @@
 <br>                                                                                        
                                                                                
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=larigens&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=larigens&label=Profile%20Views&color=10&icon=8&pretty=true)](https://visitcount.itsvg.in)
                                                                                              
 <p align="center">
 
