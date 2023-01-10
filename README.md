@@ -30,6 +30,7 @@
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
+  <br>
   <a href="https://github.com/larigens/readme-lab">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=readme-lab" />
   </a>
