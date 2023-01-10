@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" alt="cube-gif" />
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=80&color=F069C2&width=435&lines=Larissa+Guilherme;Software+Engineer;Student+at+Georgia+Tech" alt="Typing SVG" /></a>
     
 <br>
@@ -19,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="email" />
 </a>
 
-<br><br> 
+<br>
 
 <a href="https://tuhinpal.github.io/readme-stats-github/">
     <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
