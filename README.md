@@ -4,22 +4,22 @@
 <br>
 
 <div id="badges" align="center" >
-    <a href="https://larigens.github.io/lari-gui/" target="_blank">
-        <img src="https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
-    </a>  
-    <a href="https://https://linkedin.com/in/lari-gui/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-    <a href="https://twitter.com/@coffeebr_eak" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>  
-    <a href="https://scholar.google.com/citations?hl=en&user=lje994IAAAAJ" target="_blank">
-        <img src="https://img.shields.io/badge/Scholar-100000?logo=GoogleScholar&logoColor=white" alt="Google Scholar" />
-    </a>
-    <a href="mailto:larigens@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
+  <a href="https://larigens.github.io/lari-gui/" target="_blank">
+    <img src="https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
+  </a>  
+  <a href="https://https://linkedin.com/in/lari-gui/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="https://twitter.com/@coffeebr_eak" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>  
+  <a href="https://scholar.google.com/citations?hl=en&user=lje994IAAAAJ" target="_blank">
+     <img src="https://img.shields.io/badge/Scholar-100000?logo=GoogleScholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="mailto:larigens@gmail.com">
+     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" />
+  </a>
+     <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 </div>
 <br>
 
@@ -29,14 +29,15 @@
 </div>
 
 <div align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
-<a href="https://github.com/larigens/readme-lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=readme-lab" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
+  <a href="https://github.com/larigens/readme-lab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=readme-lab" />
+  </a>
+  <a href="https://github.com/larigens">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigens&layout=compact" />
+  </a>
 </div>
+
 ---
                                                                                       
 ### About Me
