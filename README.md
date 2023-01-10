@@ -24,7 +24,8 @@
 <a href="https://tuhinpal.github.io/readme-stats-github/">
     <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
 </a>
-
+                                                                                             
+<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=larigens&label=Profile%20Views&color=10&icon=8&pretty=true" />
 </a>
