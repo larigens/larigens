@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
 <br>
+
 <div id="badges" align="center" >
     <a href="https://larigens.github.io/lari-gui/" target="_blank">
         <img src="https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
@@ -21,20 +22,16 @@
     <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 </div>
 <br>
+
 <div id="intro" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=false&multiline=false&repeat=false&width=500&height=50&lines=Larissa+Guilherme" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=90&lines=Software+Engineer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
 </div>
 
-<div id="graphs" align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
 <a href="https://github.com/larigens/readme-lab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=readme-lab" />
 </a>
-<a href="https://github.com/larigens/team-up">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=team-up" />
-</a>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
