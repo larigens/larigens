@@ -1,6 +1,8 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=80&color=F069C2&width=435&lines=Larissa+Guilherme;Software+Engineer;Student+at+Georgia+Tech" alt="Typing SVG" /></a>
     
+<br>
+
 <a href="https://larigens.github.io/lari-gui/">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white" alt="Portfolio" />
 </a>  
@@ -24,7 +26,7 @@
 </a>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=larigens&label=Profile%20Views&color=10&icon=8&pretty=true" alt="visit count" />
+  <img src="https://visitcount.itsvg.in/api?id=larigens&label=Profile%20Views&color=10&icon=8&pretty=true" />
 </a>
 
 </p>
