@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
-<br>
 
 <div id="badges" align="center" >
     <a href="https://larigens.github.io/lari-gui/" target="_blank">
@@ -21,26 +20,26 @@
     </a>
     <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 </div>
-<br>
 
 <div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=false&multiline=false&repeat=false&width=500&height=100&lines=Larissa+Guilherme" alt="Typing SVG" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=100&lines=Software+Engineer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=false&multiline=false&repeat=false&width=500&height=100&lines=Larissa+Guilherme" alt="Typing SVG" />  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=100&lines=Software+Engineer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
 </div>
 
 <div id="graphs" align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigens" alt="github stats" />
 </div>
-<br>                                                                                        
-                                                                                             
-<div align="center">
 
-📖 Pursuing Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology
+---
+                                                                                      
+### About Me
+- :telescope: 📖 Pursuing Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology
 
-💡 Open to work and collaboration on projects.
+- :seedling: 💡  Open to work and collaboration on projects.
+
+- :zap: In my free time, I workout and play videogames.
+
+- :mailbox:How to reach me: [![Email Me](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](your-linkedin-url)
 
 ---
   
