@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
-
+<br>
 <div id="badges" align="center" >
     <a href="https://larigens.github.io/lari-gui/" target="_blank">
         <img src="https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
@@ -18,15 +18,17 @@
     <a href="mailto:larigens@gmail.com">
         <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" />
     </a>
-    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Larissa+Guilherme;Software+Engineer+%7C%7C+Full+Stack+Web+Dev;Student+at+Georgia+Institute+of+Technology" alt="Typing SVG" />
+</div>
+<br>
+<div id="intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Larissa+Guilherme;Software+Engineer+%7C%7C+Full+Stack+Web+Dev;Student+at+Georgia+Institute+of+Technology" alt="Typing SVG" />
+  <br>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 <br>
-  
+
 <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
-    
-</p>  
 <br>                                                                                        
                                                                                
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=larigens&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
