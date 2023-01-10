@@ -20,12 +20,11 @@
     </a>
 </div>
 <br>
-<div id="intro">
+<div id="intro" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Larissa+Guilherme;Software+Engineer+%7C%7C+Full+Stack+Web+Dev;Student+at+Georgia+Institute+of+Technology" alt="Typing SVG" />
   <br>
+  <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
 <br>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
