@@ -29,13 +29,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=larigens" alt="github stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?user=larigens" alt="github stats" />
   <br>
   <a href="https://github.com/larigens/readme-lab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larigens&repo=readme-lab" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?user=larigens&repo=readme-lab" />
   </a>
   <a href="https://github.com/larigens">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigens&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?user=larigens&layout=compact" />
   </a>
 </div>
 
