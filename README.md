@@ -4,7 +4,7 @@
 <br>
 
 <div id="badges" align="center" >
-  <a href="https://larigens.github.io/lari-gui/" target="_blank">
+  <a href="https://lari-gui.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>  
   <a href="https://https://linkedin.com/in/lari-gui/" target="_blank">
