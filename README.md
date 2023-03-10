@@ -25,7 +25,7 @@
 
 <div id="intro" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=false&multiline=false&repeat=false&width=500&height=50&lines=Larissa+Guilherme" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=90&lines=Software+Engineer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=90&lines=Software+Developer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
 </div>
 
 ---
