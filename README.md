@@ -53,9 +53,7 @@
   <img src="https://avatars.githubusercontent.com/u/14630145?s=400&v=4" title="Connect Session Sequelize" alt="Connect Session Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/10210209?s=400&v=4" title="Inquirer" alt="Inquirer" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filesystem/filesystem-original.svg" title="Filesystem" alt="Filesystem" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://www.pwa.org/wp-content/uploads/2018/03/PWA-logo-1.png" title="PWA" alt="PWA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
  
