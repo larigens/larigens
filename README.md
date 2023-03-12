@@ -52,6 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/14630145?s=400&v=4" title="Connect Session Sequelize" alt="Connect Session Sequelize" width="40" height="40" />&nbsp;
   <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" title="Mongoose" alt="Mongoose" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.svg" title="Webpack" alt="Webpack" width="40" height="40" />&nbsp;
   <img src="https://avatars.githubusercontent.com/u/10210209?s=400&v=4" title="Inquirer" alt="Inquirer" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="Heroku" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40" />&nbsp;
