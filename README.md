@@ -7,7 +7,7 @@
   <a href="https://larigens.github.io/reactfolio" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
   </a>  
-  <a href="https://https://linkedin.com/in/lari-gui/" target="_blank">
+  <a href="[https://https://linkedin.com/in/lari-gui/](https://www.linkedin.com/in/larissa-guilherme-4ba4331a6/)" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://twitter.com/@coffeebr_eak" target="_blank">
