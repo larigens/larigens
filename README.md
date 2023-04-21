@@ -32,7 +32,7 @@
                                                                                       
 ### About Me
 
-- :telescope: Pursuing Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
+- :telescope: Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
 
 - :seedling: Open to work and collaboration on projects.
 
