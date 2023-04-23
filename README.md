@@ -44,7 +44,15 @@
 ⚡️ During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
 
 ---
-  
+### Stats
+<div align='center'>
+
+<a href="https://github.com/larigens/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=larigens&show_icons=true&theme=dracula" alt="Larissa's GitHub Stats" />
+</a>
+
+</div>
+
 ### Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
