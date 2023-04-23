@@ -5,38 +5,44 @@
 
 <div id="badges" align="center" >
   <a href="https://larigens.github.io/reactfolio" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-000?logo=ko-fi&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=white&color=D61F69" alt="Portfolio" />
   </a>  
   <a href="[https://https://linkedin.com/in/lari-gui/](https://www.linkedin.com/in/larissa-guilherme-4ba4331a6/)" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin" />
+     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=D61F69" alt="Linkedin" />
   </a>
   <a href="https://twitter.com/@coffeebr_eak" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
+     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&color=D61F69" alt="Twitter" />
   </a>  
   <a href="https://scholar.google.com/citations?hl=en&user=lje994IAAAAJ" target="_blank">
-     <img src="https://img.shields.io/badge/Scholar-100000?logo=GoogleScholar&logoColor=white" alt="Google Scholar" />
+     <img src="https://img.shields.io/badge/Scholar-100000?logo=GoogleScholar&logoColor=white&color=D61F69" alt="Google Scholar" />
   </a>
   <a href="mailto:larigens@gmail.com">
-     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" alt="email" />
+     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&color=D61F69" alt="email" />
   </a>
-     <img src="https://komarev.com/ghpvc/?username=larigens&color=F069C2" alt=""/>
+     <img src="https://komarev.com/ghpvc/?username=larigens&color=D61F69" alt="profile count view"/>
 </div>
 <br>
 
 <div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=F069C2&center=true&vCenter=false&multiline=false&repeat=false&width=500&height=50&lines=Larissa+Guilherme" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7FF&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=90&lines=Software+Developer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=22&duration=3000&pause=100&color=D61F69&center=true&vCenter=false&multiline=false&repeat=false&width=500&height=50&lines=Larissa+Guilherme" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=90&lines=Software+Developer+%7C%7C+Full+Stack+Web+Development;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
 </div>
 
 ---
                                                                                       
 ### About Me
 
-- :telescope: Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
+💻 Open to work and collaboration on projects.
 
-- :seedling: Open to work and collaboration on projects.
+🎓 Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
 
-- :zap: In my free time, I like to play video games and workout to de-stress after hours of de-bugging hah.
+🍏 Background in Nutrition. Earned Bachelor of Science degree from Universidade Federal de Pernambuco (Recife, Brazil).
+
+💰 Two years of experience in Financial Services. 
+
+🫧 Passionate about Science and Numbers.
+
+⚡️ During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
 
 ---
   
