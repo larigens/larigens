@@ -7,7 +7,7 @@
   <a href="https://larigens.github.io/reactfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=white&color=D61F69" alt="Portfolio" />
   </a>  
-  <a href="www.linkedin.com/in/larigens" target="_blank">
+  <a href="https://www.linkedin.com/in/larigens/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=D61F69" alt="Linkedin" />
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=lje994IAAAAJ" target="_blank">
