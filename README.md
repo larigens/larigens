@@ -83,5 +83,17 @@
 <code><img height="30" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" alt="gitlab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"></code>
 <code><img height="30" alt="canva" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></code>
+<code><img height="30" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" alt="chrome" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"></code>
 <code><img height="30" alt="apple" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
+
+
+<a href="https://twitter.com/coffeebr_eak">
+  <img align="right" alt="Larissa Guilherme | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.com/users/larigens#2587">
+  <img align="right" alt="Larissa Guilherme | Discord" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg" />
+</a>
+<a href="https://slack.com/users/U046F8ERE14">
+  <img align="right" alt="Larissa Guilherme | Slack" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
+</a>
