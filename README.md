@@ -54,6 +54,8 @@
   
  </div>
 
+---
+
 ### Tech Stack
 
 <div id="tech">
@@ -89,10 +91,10 @@
 <code><img height="30" alt="apple" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
 </div>
 
-<br>
-<br>
+---
 
-<div id="contact" align="center" >
+<div id="contact">
+  <img align="left" alt="Larissa Guilherme | Portfolio" width="180px" height="40px" src="https://user-images.githubusercontent.com/107759776/234104672-411cb583-da2b-42ab-864f-7371bd236f4c.png" />
 <a href="https://twitter.com/coffeebr_eak">
   <img align="right" alt="Larissa Guilherme | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
