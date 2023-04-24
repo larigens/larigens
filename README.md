@@ -49,14 +49,10 @@
 ---
 ### Stats
 
-<details>
-<summary> 📊 </summary>
-<br>
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larigens&theme=buefy) 
+  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=larigens&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Larissa's github stats" /></a> <a href="https://github.com/larigens/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigens&layout=compact&theme=buefy&hide_border=true" /></a>
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larigens&theme=dracula) 
-
-![README Stats](https://github-readme-stats.vercel.app/api?username=larigens&show_icons=true&theme=dracula&) 
-</details>
 
 ### Tech Stack
 
