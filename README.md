@@ -23,7 +23,7 @@
 <br>
 
 <div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hi,+I+ am+Larissa+Guilherme!;I'm+a+Software+Developer+%7C%7C+Back-end+Developer+enthusiastic." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hi,+I+ am+Larissa+Guilherme!;Back-end+Developer+enthusiastic." alt="Typing SVG" />
 </div>
 
 ---
