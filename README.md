@@ -44,6 +44,14 @@
 
 ---
 
+### Next Step
+
+ <code><img height="30" alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+ <code><img height="30" alt="dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></code>
+ <code><img height="30" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
+ 
+---
+
 ### My Stats
 
 <div id="stats" align="center" >
@@ -72,15 +80,19 @@
 <code><img height="25" alt="mongoose" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"></code>
 <code><img height="30" alt="webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"></code>
 <code><img height="30" alt="inquirer" src="https://avatars.githubusercontent.com/u/10210209?s=400&v=4"></code>
+<code><img height="30" alt="postman" src="https://github.com/postmanlabs/postman-docs/blob/develop/src/images/favicon.png"></code>
+<code><img height="30" alt="insomnia" src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/src/icons/icon.ico"></code>
 <code><img height="30" alt="heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></code>
 <code><img height="30" alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="30" alt="jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"></code>
 <code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="30" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+<code><img height="30" alt="passportjs" src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png"></code>
 <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
 <code><img height="30" alt="firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="30" alt="eslint" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></code>
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
 <code><img height="30" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
 <code><img height="30" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
