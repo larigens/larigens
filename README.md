@@ -7,7 +7,7 @@
   <a href="https://larigens.github.io/reactfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=white&color=D61F69" alt="Portfolio" />
   </a>  
-  <a href="[https://https://linkedin.com/in/lari-gui/](https://www.linkedin.com/in/larissa-guilherme-4ba4331a6/)" target="_blank">
+  <a href="https://https://linkedin.com/in/lari-gui/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=D61F69" alt="Linkedin" />
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=lje994IAAAAJ" target="_blank">
@@ -23,7 +23,7 @@
 <br>
 
 <div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3000&pause=100&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Larissa +Guilherme+%7C%7C+Software+Developer;Professional+Certificate++@+Georgia+Institute+of+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hi,+I+ am+Larissa+Guilherme!;I'm+a+Software+Developer+%7C%7C+Back-end+Developer+enthusiastic." alt="Typing SVG" />
 </div>
 
 ---
