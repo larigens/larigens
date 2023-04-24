@@ -30,20 +30,21 @@
                                                                                       
 ### About Me
 
-💻 Open to work and collaboration on projects.
+<code>💻</code> Open to work and collaboration on projects.
 
-🎓 Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
+<code>🎓</code> Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
 
-🍏 Background in Nutrition. Earned Bachelor of Science degree from Universidade Federal de Pernambuco (Recife, Brazil).
+<code>🍏</code> Background in Nutrition. Bachelor of Science @ Universidade Federal de Pernambuco - Brazil.
 
-💰 Two years of experience in Financial Services. 
+<code>💰</code> Two years of experience in Financial Services. 
 
-🫧 Passionate about Science and Numbers.
+<code>🫧</code> Passionate about Science and Numbers.
 
-⚡️ During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
+<code>⚡️</code> During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
 
 ---
-### Stats
+
+### My Stats
 
 <div id="stats" align="center" >
   
