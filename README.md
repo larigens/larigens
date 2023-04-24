@@ -48,7 +48,7 @@
 ---
 ### Stats
 
-<div id="badges" align="center" >
+<div id="stats" align="center" >
   
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larigens&theme=radical" alt="Larissa's github stats" /></a>
   
@@ -58,6 +58,7 @@
 
 ### Tech Stack
 
+<div id="tech">
 <code><img height="30" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" alt="scss" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
@@ -88,8 +89,12 @@
 <code><img height="30" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="30" alt="chrome" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"></code>
 <code><img height="30" alt="apple" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
+</div>
 
+<br>
+<br>
 
+<div id="contact" align="center" >
 <a href="https://twitter.com/coffeebr_eak">
   <img align="right" alt="Larissa Guilherme | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
@@ -99,3 +104,4 @@
 <a href="https://app.slack.com/client/T02GQNVK8R1/U046F8ERE14">
   <img align="right" alt="Larissa Guilherme | Slack" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
 </a>
+</div>
