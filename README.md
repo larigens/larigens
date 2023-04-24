@@ -92,6 +92,7 @@
 <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
+<code><img height="30" alt="apollographql" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apollographql_logo_icon_169569.png"></code>
 <code><img height="30" alt="firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
 <code><img height="30" alt="eslint" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></code>
 <code><img height="30" alt="chartjs" src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg?updated=1681748471210"></code>
