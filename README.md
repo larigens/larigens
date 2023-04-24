@@ -94,6 +94,6 @@
 <a href="https://discord.com/users/larigens#2587">
   <img align="right" alt="Larissa Guilherme | Discord" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord.svg" />
 </a>
-<a href="https://slack.com/users/U046F8ERE14">
+<a href="https://app.slack.com/client/T02GQNVK8R1/U046F8ERE14">
   <img align="right" alt="Larissa Guilherme | Slack" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" />
 </a>
