@@ -16,7 +16,7 @@
   <a href="mailto:larigens@gmail.com">
      <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&color=D61F69" alt="email" />
   </a>
-  <a href="https://larigens.github.io/reactfolio/#Resume">
+  <a href="https://docs.google.com/document/d/1eTtWJtVafi6zOJ9i6z0DhTmLHE8rKlpI/">
     <img src="https://img.shields.io/badge/CV.pdf-red?logo=adobe&logoColor=white&color=D61F69">
 </a> 
 </div>
