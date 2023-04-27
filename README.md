@@ -4,7 +4,7 @@
 <br>
 
 <div id="badges" align="center" >
-  <a href="https://larigens.github.io/" target="_blank">
+  <a href="https://larigens.github.io/laricodes" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=white&color=D61F69" alt="Portfolio" />
   </a>  
   <a href="https://www.linkedin.com/in/larigens/" target="_blank">
