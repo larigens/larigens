@@ -58,7 +58,7 @@
   
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larigens&theme=radical" alt="Larissa's github stats" /></a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=larigens&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6d1Af7&text_color=d61f69&icon_color=6d1Af7&hide_border=true" alt="Larissa's github stats" /></a> <a href="https://github.com/larigens/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larigens&langs_count=8&hide_progress=true&bg_color=ffffff&title_color=6d1Af7&text_color=d61f69&icon_color=6d1Af7&hide_border=true&card_width=10" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=larigens&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6d1Af7&text_color=d61f69&icon_color=6d1Af7&hide_border=true" alt="Larissa's github stats" /></a> <a href="https://github.com/larigens/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larigens&langs_count=8&hide_progress=true&bg_color=ffffff&title_color=6d1Af7&text_color=d61f69&icon_color=6d1Af7&hide_border=true&card_width=10" /></a>
   
  </div>
 
