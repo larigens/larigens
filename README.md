@@ -1,8 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
+  <img src="/banner.png" alt="banner" />
 </div>
 <br>
-
+<div id="intro" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=25&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hi,+I+ am+Larissa+Guilherme!;Web Developer ready to collaborate!" alt="Typing SVG" />
+</div>
 <div id="badges" align="center" >
   <a href="https://larigens.github.io/laricodes" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=white&color=D61F69" alt="Portfolio" />
@@ -22,25 +24,27 @@
 </div>
 <br>
 
-<div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=19&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hi,+I+ am+Larissa+Guilherme!;Back-end+Developer+enthusiastic." alt="Typing SVG" />
-</div>
-
 ---
                                                                                       
 ### About Me
 
-<code>💻</code> Open to work and collaboration on projects.
+<img align="right" width="200" height="200" src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" alt="gif" />
 
-<code>🎓</code> Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.
-
-<code>🍏</code> Background in Nutrition. Bachelor of Science @ Universidade Federal de Pernambuco - Brazil.
-
-<code>💰</code> Two years of experience in Financial Services. 
-
-<code>🫧</code> Passionate about Science and Numbers.
-
-<code>⚡️</code> During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
+<div id="about" align="left">
+  
+  <code>💻</code> Open to work and collaboration on projects.<br>
+  
+  <code>🎓</code> Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.<br>
+  
+  <code>🍏</code> Background in Nutrition. Bachelor of Science @ Universidade Federal de Pernambuco - Brazil.<br>
+  
+  <code>💰</code> Two years of experience in Financial Services.<br>
+  
+  <code>🫧</code> Passionate about Science and Numbers.<br>
+  
+  <code>⚡️</code> During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
+  
+</div>
 
 ---
 
