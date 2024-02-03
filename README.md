@@ -42,7 +42,7 @@
   
   <code>🫧</code> Passionate about Science and Numbers.<br>
   
-  <code>⚡️</code> During my leisure time, I like to play video games and workout to de-stress after hours of de-bugging hah.
+  <code>⚡️</code> During my leisure time, I enjoy reading and solving puzzles.
   
 </div>
 
