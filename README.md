@@ -86,6 +86,7 @@
 <code><img height="30" alt="chakraui" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logomark-colored.svg"></code>
 <code><img height="30" alt="handlebars" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg"></code> 
 <code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
   
 ##### Progressive Web App Libraries and Frameworks
  
