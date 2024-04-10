@@ -73,6 +73,7 @@
   
 <code><img height="30" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" alt="scss" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+<code><img height="30" alt="scss" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
   
 ##### Client-side Scripting Language
 
