@@ -48,14 +48,6 @@
 
 ---
 
-### Next Step in My Professional Development
-
- <code><img height="30" alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
- <code><img height="30" alt="dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></code>
- <code><img height="30" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
- 
----
-
 ### My Stats
 
 <div id="stats" align="center" >
