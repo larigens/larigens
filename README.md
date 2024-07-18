@@ -38,11 +38,11 @@
   
   <code>🍏</code> Background in Nutrition. Bachelor of Science @ Universidade Federal de Pernambuco - Brazil.<br>
   
-  <code>💰</code> Two years of experience in Financial Services.<br>
+  <code>💰</code> Three years of experience in Financial Services and 1+ years of experience in Web Development<br>
   
   <code>🫧</code> Passionate about Science and Numbers.<br>
   
-  <code>⚡️</code> During my leisure time, I enjoy reading and solving puzzles.
+  <code>⚡️</code> During my leisure time, you might find me solving puzzles or binging a funny TV show. I’m also an avid Wordle player, a competitive Stop enthusiast, and a big fan of quirky science facts. When I’m not coding or geeking out over a new tech trend, I might be preparing for my next half-marathon or enjoying a healthy snack—because why not balance out all that screen time with a bit of fitness and nutrition? Life’s all about keeping it fun and interesting, both online and offline!
   
 </div>
 
