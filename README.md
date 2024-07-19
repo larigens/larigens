@@ -117,13 +117,9 @@
 <code><img height="30" alt="nodemon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" /></code>
 <code><img height="30" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /></code>
 
-##### Object-Relational Mapping (ORM)
 
-<code><img height="30" alt="sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" /></code>
 
-##### Object Data Modeling (ODM)
- 
-<code><img height="25" alt="mongoose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /></code>
+
 
 ##### Authentication and Authorization
 
@@ -143,55 +139,36 @@
 ##### Relational Database Management System
   
 <code><img height="30" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></code>
-  
+<code><img height="30" alt="sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" /></code>
+ 
 ##### NoSQL Database Management System
   
 <code><img height="30" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
+<code><img height="25" alt="mongoose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /></code>
 
 </details>
 
 <details>
   <summary> Other Development Tools </summary> 
 <br>
+<code><img height="30" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /></code>
 <code><img height="30" alt="powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></code>
-
-##### Data Interchange
-
 <code><img height="30" alt="json" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /></code>
-  
-##### Build Tools
-  
-<code><img height="30" alt="webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" /></code>
-<code><img height="30" alt="babel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" /></code>
-
-##### API Development and Testing
-  
 <code><img height="30" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /></code>
 <code><img height="30" alt="insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></code>
-  
-##### Package Management
-
 <code><img height="30" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
-
-##### Testing
-
-<code><img height="30" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></code>
-  
-##### Hosting and Deployment
-  
-<code><img height="30" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" /></code>
-<code><img height="30" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /></code>
-  
-##### Version Control
-  
 <code><img height="30" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /></code>
 <code><img height="30" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></code>
 <code><img height="30" alt="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" /></code>
-  
-##### Text Editors and IDEs
-
 <code><img height="30" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></code>
-    
+<code><img height="30" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img height="30" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /></code>
+<code><img height="30" alt="dotenv" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/dotenv_logo_icon_249008.png"></code>
+<code><img height="30" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" /></code>
+<code><img height="30" alt="webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" /></code>
+<code><img height="30" alt="babel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" /></code>
+<code><img height="30" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></code>
+ 
 ##### Design and Visualization
   
 <code><img height="30" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /></code>
@@ -200,21 +177,6 @@
  
 <code><img height="30" alt="chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" /></code>
 <code><img height="30" alt="apple" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"></code>      
- 
-##### Text Formatting and Documentation
- 
-<code><img height="30" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /></code>
-  
-##### Code Quality and Linting
-
-<code><img height="30" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" /></code>
-
-##### Environment Variables
-
-<code><img height="30" alt="dotenv" src="https://cdn.icon-icons.com/icons2/3914/PNG/512/dotenv_logo_icon_249008.png"></code>
-  
-##### Command Line Interface  
-<code><img height="30" alt="inquirer" src="https://avatars.githubusercontent.com/u/10210209?s=400&v=4"></code>  
   
 </details>
 
