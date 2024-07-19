@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=25&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hi,+I+ am+Larissa+Guilherme!;Web Developer ready to collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=25&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hello World,+I+ am+Larissa+Guilherme!;Software Engineer ready to collaborate!" alt="Typing SVG" />
 </div>
 <div id="badges" align="center" >
   <a href="https://larigens.github.io/laricodes" target="_blank">
