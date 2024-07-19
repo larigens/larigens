@@ -36,13 +36,35 @@
   
   <code>🎓</code> Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.<br>
   
+  <code>🗂️</code> Certified Associate in Project Management(CAPM)®<br>
+  
   <code>🍏</code> Background in Nutrition. Bachelor of Science @ Universidade Federal de Pernambuco - Brazil.<br>
   
-  <code>💰</code> Three years of experience in Financial Services and 1+ years of experience in Web Development<br>
+  <code>💰</code> Three years of experience in Financial Services.<br>
   
-  <code>🫧</code> Passionate about Science and Numbers.<br>
+  <code>🖥️</code> Over a year of experience in Web Development.<br>
   
-  <code>⚡️</code> During my leisure time, you might find me solving puzzles or binging a funny TV show. I’m also an avid Wordle player, a competitive Stop enthusiast, and a big fan of quirky science facts. When I’m not coding or geeking out over a new tech trend, I might be preparing for my next half-marathon or enjoying a healthy snack—because why not balance out all that screen time with a bit of fitness and nutrition? Life’s all about keeping it fun and interesting, both online and offline!
+  <code>🧬</code> Passionate about Science and Numbers.<br>
+  
+</div>
+  
+  <hr>
+  
+#### ⚡️ During my leisure time, you might find me:
+
+<div id="leisure" align="left">
+  
+  <code>🧩</code> Solving puzzles.<br>
+  
+  <code>📺</code> Binging a funny TV show.<br>
+  
+  <code>🏃🏻‍♀️‍➡️</code> Fun Fact: I'm preparing for my first half-marathon —because why not balance out all that screen time with a bit of fitness? Life’s all about keeping it fun and interesting, both online and offline!<br>
+  
+  <code>🎖️</code> Oh, I'm also an avid Wordle player.<br>
+  
+  <code>🛑</code> A competitive Stop enthusiast.<br>
+  
+  <code>🛰️🪐</code> A big fan of quirky science documentaries.<br>
   
 </div>
 
@@ -64,75 +86,53 @@
   
 <details>
   <summary> Front-end Development </summary>
-
-##### Markup Language
-  
-<code><img height="30" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  
-##### Styling Language
-  
-<code><img height="30" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" alt="scss" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
-<code><img height="30" alt="scss" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
-  
-##### Client-side Scripting Language
-
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <br>
+<code><img height="30" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" /></code>
+<code><img height="30" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /></code>
+<code><img height="30" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>         
+<code><img height="30" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
+<br>
   
 ##### JavaScript Libraries and Frameworks
-  
-<code><img height="30" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></code>
-<code><img height="30" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img height="30" alt="chakraui" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logomark-colored.svg"></code>
-<code><img height="30" alt="handlebars" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg"></code> 
-<code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="30" alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
-  
-##### Progressive Web App Libraries and Frameworks
- 
-<code><img height="30" alt="workbox" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/workbox_icon_131872.png"></code>
-  
-##### Data Visualization
 
-<code><img height="30" alt="chartjs" src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg?updated=1681748471210"></code>
+<code><img height="30" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></code>
+<code><img height="30" alt="react-bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" /></code>
+<code><img height="30" alt="react-navigation" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" /></code>
+<code><img height="30" alt="react-router" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" /></code>
+<code><img height="30" alt="next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></code>
+<code><img height="30" alt="vuejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" /></code>      
+<code><img height="30" alt="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" /></code>
+<code><img height="30" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" /></code>
+<code><img height="30" alt="chakraui" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logomark-colored.svg" /></code>
+<code><img height="30" alt="handlebars" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original-wordmark.svg" /></code> 
+<code><img height="30" alt="workbox" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/workbox_icon_131872.png" /></code>
+<code><img height="30" alt="chartjs" src="https://asset.brandfetch.io/idFdo8ulhr/idg4l58CuH.svg?updated=1681748471210" /></code>
   
 </details>
 
 <details>
   <summary> Back-end Development </summary>
- 
-##### Runtime Environment
-
-<code><img height="30" alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-
-##### Web Framework
-
-<code><img height="30" alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+<br>
+<code><img height="30" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></code>
+<code><img height="30" alt="nodemon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" /></code>
+<code><img height="30" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /></code>
 
 ##### Object-Relational Mapping (ORM)
 
-<code><img height="30" alt="sequelize" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"></code>
+<code><img height="30" alt="sequelize" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" /></code>
 
 ##### Object Data Modeling (ODM)
  
-<code><img height="25" alt="mongoose" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png"></code>
-  
-##### Session Management
-
-<code><img height="30" alt="connect-session-sequelize" src="https://avatars.githubusercontent.com/u/14630145?s=400&v=4"></code>
+<code><img height="25" alt="mongoose" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" /></code>
 
 ##### Authentication and Authorization
 
 <code><img height="30" alt="passportjs" src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png"></code>
 <code><img height="30" alt="jwt" src="https://img.icons8.com/color/256/java-web-token.png"></code>
 
-##### Monitoring and Restarting
-
-<code><img height="30" alt="nodemon" src="https://cdn.iconscout.com/icon/free/png-512/free-nodemon-226039.png?f=avif&w=256"></code>
-
 ##### Query Language
 
-<code><img height="30" alt="graphql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
+<code><img height="30" alt="graphql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" /></code>
 <code><img height="30" alt="apollographql" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apollographql_logo_icon_169569.png"></code>
  
 </details>
@@ -142,70 +142,72 @@
 
 ##### Relational Database Management System
   
-<code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></code>
   
 ##### NoSQL Database Management System
   
-<code><img height="30" alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></code>
 
 </details>
 
 <details>
   <summary> Other Development Tools </summary> 
-  
+<br>
+<code><img height="30" alt="powershell" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /></code>
+
 ##### Data Interchange
 
-<code><img height="30" alt="json" src="https://cdn.iconscout.com/icon/free/png-512/free-json-226010.png?f=avif&w=256"></code>
+<code><img height="30" alt="json" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" /></code>
   
 ##### Build Tools
   
-<code><img height="30" alt="webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"></code>
-<code><img height="30" alt="babel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg"></code>
+<code><img height="30" alt="webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original-wordmark.svg" /></code>
+<code><img height="30" alt="babel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" /></code>
 
 ##### API Development and Testing
   
-<code><img height="30" alt="postman" src="https://github.com/postmanlabs/postman-docs/blob/develop/src/images/favicon.png"></code>
-<code><img height="30" alt="insomnia" src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/src/icons/icon.ico"></code>
+<code><img height="30" alt="postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /></code>
+<code><img height="30" alt="insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></code>
   
 ##### Package Management
 
-<code><img height="30" alt="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="30" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /></code>
 
 ##### Testing
 
-<code><img height="30" alt="jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"></code>
+<code><img height="30" alt="jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></code>
   
 ##### Hosting and Deployment
   
-<code><img height="30" alt="heroku" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></code>
-<code><img height="30" alt="firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
+<code><img height="30" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img height="30" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /></code>
   
 ##### Version Control
   
-<code><img height="30" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
-<code><img height="30" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="30" alt="gitlab" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"></code>
+<code><img height="30" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /></code>
+<code><img height="30" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /></code>
+<code><img height="30" alt="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" /></code>
   
 ##### Text Editors and IDEs
 
-<code><img height="30" alt="vscode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="30" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></code>
     
 ##### Design and Visualization
   
-<code><img height="30" alt="canva" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"></code>
+<code><img height="30" alt="canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" /></code>
   
 ##### Browsers and Operating Systems
  
-<code><img height="30" alt="chrome" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"></code>
-<code><img height="30" alt="apple" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"></code>
+<code><img height="30" alt="chrome" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" /></code>
+<code><img height="30" alt="apple" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"></code>      
  
 ##### Text Formatting and Documentation
  
-<code><img height="30" alt="markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"></code>
+<code><img height="30" alt="markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /></code>
   
 ##### Code Quality and Linting
 
-<code><img height="30" alt="eslint" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"></code>
+<code><img height="30" alt="eslint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" /></code>
 
 ##### Environment Variables
 
