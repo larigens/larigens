@@ -56,15 +56,9 @@
   
   <code>🧩</code> Solving puzzles.<br>
   
-  <code>📺</code> Binging a funny TV show.<br>
+  <code>🎲</code> Designing my first board game.<br>
   
-  <code>🏃🏻‍♀️‍➡️</code> Fun Fact: I'm preparing for my first half-marathon —because why not balance out all that screen time with a bit of fitness? Life’s all about keeping it fun and interesting, both online and offline!<br>
-  
-  <code>🎖️</code> Oh, I'm also an avid Wordle player.<br>
-  
-  <code>🛑</code> A competitive Stop enthusiast.<br>
-  
-  <code>🛰️🪐</code> A big fan of quirky science documentaries.<br>
+  <code>🛰️🪐</code> Binging a quirky science documentary.<br>
   
 </div>
 
