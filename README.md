@@ -14,10 +14,7 @@
   </a>
   <a href="mailto:larigens@gmail.com">
      <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&color=D61F69" alt="email" />
-  </a>
-  <a href="https://docs.google.com/document/d/1JZMl4FjfVmC8TvVxRHcwEMq5kz23--5WvYn8jEqqpb8/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/CV.pdf-red?logo=adobe&logoColor=white&color=D61F69">
-</a> 
+  </a> 
 </div>
 <br>
 
