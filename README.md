@@ -2,9 +2,6 @@
   <img src="/banner-github.gif" alt="banner" />
 </div>
 <br>
-<div id="intro" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=300&size=25&duration=3500&pause=150&color=6D1AF7&center=true&vCenter=false&multiline=false&repeat=true&width=500&height=50&lines=Hello World,+I+ am+Larissa+Guilherme!;Software Engineer ready to collaborate!" alt="Typing SVG" />
-</div>
 <div id="badges" align="center" >
   <a href="https://larigens.github.io/laricodes" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=ko-fi&logoColor=white&color=D61F69" alt="Portfolio" />
@@ -36,11 +33,10 @@
   
   <code>🎓</code> Professional Certificate in Full Stack Web Development @ Georgia Institute of Technology.<br>
   
-  <code>🗂️</code> Certified Associate in Project Management(CAPM)®<br>
   
   <code>🍏</code> Background in Nutrition. Bachelor of Science @ Universidade Federal de Pernambuco - Brazil.<br>
   
-  <code>💰</code> Three years of experience in Financial Services.<br>
+  <code>💰</code> Four years of experience in Financial Services.<br>
   
   <code>🖥️</code> Over a year of experience in Web Development.<br>
   
